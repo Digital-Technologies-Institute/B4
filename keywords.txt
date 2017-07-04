@@ -1,0 +1,4 @@
+B4			KEYWORD1
+loadDataAndProgram	KEYWORD2
+programB4		KEYWORD3
+assembler		KEYWORD4
